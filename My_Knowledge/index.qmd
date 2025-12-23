@@ -1,7 +1,43 @@
 ## UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+## PUDAL Judul: PROSPER-PATH: Arsitektur "Sistem Kedaulatan Ekonomi" Masyarakat Rentan
+
+### Mengapa Kita Butuh Pengetahuan Baru tentang Kemiskinan?
+Selama ini, kemiskinan sering dipahami secara sempit sebagai "kekurangan uang". Akibatnya, solusi yang ditawarkan cenderung dangkal: bantuan tunai langsung (BLT) atau pembagian sembako. Inovasi **PROSPER-PATH** menemukan bahwa pendekatan ini tidak cukup. Kemiskinan bukan sekadar masalah nominal pendapatan, tetapi hasil dari sistem komunikasi dan akses yang terputus antara individu, pasar, dan kebijakan.
+
+Pengetahuan baru yang saya kembangkan adalah ***Poverty-as-a-Systemic-Gap***. Berdasarkan pengembangan PROSPER-PATH, ada empat prinsip kedaulatan ekonomi baru:
+* **Ekonomi adalah Proses, Bukan Angka**: Pendapatan USD 2,15/hari hanyalah indikator, bukan definisi martabat manusia.
+* **Akses Lebih Penting daripada Aset**: Memberi modal tanpa membuka akses pasar adalah kesia-siaan.
+* **Kemandirian Tumbuh lewat Agensi, Bukan Ketergantungan**: Bantuan yang terus-menerus justru mematikan inisiatif warga.
+* **Kesejahteraan adalah Tanggung Jawab Kolektif**: Kemiskinan ekstrem 700 juta jiwa adalah kegagalan sirkulasi nilai global.
+
+### Arsitektur Inovasi: Teater Kerja PUDAL
+Inovasi **PROSPER-PATH** diimplementasikan melalui arsitektur "Teater Kerja" yang dirancang untuk memberdayakan masyarakat sebagai **Protagonis-Penulis** atas nasib mereka sendiri:
+
+1.  **Stasion (Hub Transformasi Nilai)**: Dalam teater kerja ini, terdapat dua titik krusial. **Stasiun A (Potensi Terpendam)** adalah tahap identifikasi *Human Energon* (tenaga dan waktu masyarakat). **Stasiun B (Kemandirian Produk)** adalah tahap di mana tenaga tersebut telah diolah menjadi produk atau jasa bernilai ekonomi.
+2.  **Kendaraan (Agen PUDAL): Manusia sebagai Subjek**: "Kendaraan" dalam sistem ini adalah individu yang telah dibekali kerangka kognitif **PUDAL**:
+    * **Perceive**: Mampu mengidentifikasi peluang di sekitar (misal: limbah yang bisa didaur ulang).
+    * **Understand**: Memahami cara mengolah peluang tersebut menjadi nilai.
+    * **Decision**: Mengambil keputusan strategis dalam keterbatasan sumber daya.
+    * **Act**: Mengeksekusi langkah produksi secara nyata.
+    * **Learning-evaluating**: Melakukan refleksi atas kegagalan dan keberhasilan usaha.
+3.  **Jaringan Rute Jalan (Siklus 7-Langkah Keluar dari Kemiskinan)**: Agen PUDAL bergerak melalui rute terstruktur yang disebut **Siklus 7-Langkah**: (1) Identifikasi Kelangkaan, (2) Picu Inisiatif, (3) Kejadian Kerja Kolektif, (4) Baca Status Ekonomi, (5) Evaluasi Hasil, (6) Adaptasi Teknik, (8) Selesai sebagai Pelajaran Berharga (*Lesson Learned*).
+4.  **Teknologi CORE Engine (Mesin Penggerak Energon)**: Tenaga untuk menggerakkan Agen PUDAL disediakan oleh **CORE Engine**. Dalam konteks ini, CORE Engine adalah **Sistem Koperasi Swadaya**. Ia bertindak sebagai *transducer* fundamental melalui siklus (Input, Encode, Decode, Output) untuk mengubah tenaga fisik penduduk menjadi pendapatan ekonomi yang berputar kembali ke komunitas.
+5.  **Fundamental Riset PSKVE (Bahan Bakar)**: "Bahan bakar" mesin ini berasal dari riset mendalam mengenai potensi ekonomi lokal. Riset inilah yang merumuskan prinsip konversi *Human Energon* menjadi *Value Energon*, memastikan bahwa setiap keringat yang dikeluarkan masyarakat diubah menjadi kemajuan ekonomi yang terukur.
+
+
+
+### Panduan Praktis untuk Masyarakat
+
+#### Panduan untuk Komunitas (*Public-Friendly*) Aturan 30-30-30 Kedaulatan Lokal
+* **30 Menit Identifikasi**: Mencari potensi desa/lingkungan setiap pagi.
+* **30 Menit Kolaborasi**: Diskusi antarwarga tentang solusi masalah harian.
+* **30 Menit Evaluasi**: Mencatat apa yang berhasil dan apa yang gagal hari ini.
+
+#### Panduan untuk Pendamping Lapangan (Guru Ekonomi Sosial)
+* Apa potensi yang belum disadari warga hari ini?
+* Di bagian mana proses produksi mereka terhambat?
+* Dukungan kecil (non-uang) apa yang bisa saya beri besok?
+
+### Akurasi & Kredibilitas
+Pengetahuan ***Poverty-as-a-Systemic-Gap*** ini konsisten dengan laporan *World Bank Global Poverty 2024* dan tujuan *SDG 1 PBB*. Inovasi ini tidak berhenti di wacana bantuan, tetapi berdampak pada perubahan pola pikir: masyarakat memahami bahwa mereka bukan "beban", melainkan "penggerak" sistem ekonomi yang hidup.

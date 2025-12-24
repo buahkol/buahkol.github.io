@@ -264,7 +264,7 @@
     "href": "My_Knowledge/index.html",
     "title": "9  UAS-4 My Knowledge",
     "section": "",
-    "text": "9.1 PUDAL Judul: PROSPER-PATH: Arsitektur “Sistem Kedaulatan Ekonomi” Masyarakat Rentan",
+    "text": "Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis makalah sebagai bahan utama 2) lalu saya buat transkrip ucapan lisan 3) kemudian saya kembangkan slide pendukung trnsskrip 4) lalu saya memproduksivideo audio visual",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
     ]
@@ -274,7 +274,7 @@
     "href": "My_Professional_Reviews/index.html",
     "title": "10  UAS-5 My Professional Reviews",
     "section": "",
-    "text": "Untuk melAkukan review, seperti pada pendekatan AI, kita membutuhkan rubrik",
+    "text": "10.1 Tinjauan Spesifik + Skor (1-5)\nBerikut adalah self-assessment yang dilakukan dengan bantuan Gemini AI untuk mengevaluasi seluruh tugas UAS-1 hingga UAS-4 berdasarkan rubrik penilaian spesifik per kategori.\nIdentifikasi * Nama dan NIM Penulis: Illona Nasywa Hannum - 18224081 * Penilai: Self-assessment (via Gemini AI) * Catatan Cakupan: Portofolio lengkap mencakup konsep rekayasa sistem, opini transformasi ekonomi, inovasi operasional, dan kurasi pengetahuan publik.\nRekap skor siap diunduh: Download CSV Ringkasan",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
@@ -337,6 +337,46 @@
     "text": "9.1.1 Mengapa Kita Butuh Pengetahuan Baru tentang Kemiskinan?\nSelama ini, kemiskinan sering dipahami secara sempit sebagai “kekurangan uang”. Akibatnya, solusi yang ditawarkan cenderung dangkal: bantuan tunai langsung (BLT) atau pembagian sembako. Inovasi PROSPER-PATH menemukan bahwa pendekatan ini tidak cukup. Kemiskinan bukan sekadar masalah nominal pendapatan, tetapi hasil dari sistem komunikasi dan akses yang terputus antara individu, pasar, dan kebijakan.\nPengetahuan baru yang saya kembangkan adalah Poverty-as-a-Systemic-Gap. Berdasarkan pengembangan PROSPER-PATH, ada empat prinsip kedaulatan ekonomi baru: * Ekonomi adalah Proses, Bukan Angka: Pendapatan USD 2,15/hari hanyalah indikator, bukan definisi martabat manusia. * Akses Lebih Penting daripada Aset: Memberi modal tanpa membuka akses pasar adalah kesia-siaan. * Kemandirian Tumbuh lewat Agensi, Bukan Ketergantungan: Bantuan yang terus-menerus justru mematikan inisiatif warga. * Kesejahteraan adalah Tanggung Jawab Kolektif: Kemiskinan ekstrem 700 juta jiwa adalah kegagalan sirkulasi nilai global.\n\n\n9.1.2 Arsitektur Inovasi: Teater Kerja PUDAL\nInovasi PROSPER-PATH diimplementasikan melalui arsitektur “Teater Kerja” yang dirancang untuk memberdayakan masyarakat sebagai Protagonis-Penulis atas nasib mereka sendiri:\n\nStasion (Hub Transformasi Nilai): Dalam teater kerja ini, terdapat dua titik krusial. Stasiun A (Potensi Terpendam) adalah tahap identifikasi Human Energon (tenaga dan waktu masyarakat). Stasiun B (Kemandirian Produk) adalah tahap di mana tenaga tersebut telah diolah menjadi produk atau jasa bernilai ekonomi.\nKendaraan (Agen PUDAL): Manusia sebagai Subjek: “Kendaraan” dalam sistem ini adalah individu yang telah dibekali kerangka kognitif PUDAL:\n\nPerceive: Mampu mengidentifikasi peluang di sekitar (misal: limbah yang bisa didaur ulang).\nUnderstand: Memahami cara mengolah peluang tersebut menjadi nilai.\nDecision: Mengambil keputusan strategis dalam keterbatasan sumber daya.\nAct: Mengeksekusi langkah produksi secara nyata.\nLearning-evaluating: Melakukan refleksi atas kegagalan dan keberhasilan usaha.\n\nJaringan Rute Jalan (Siklus 7-Langkah Keluar dari Kemiskinan): Agen PUDAL bergerak melalui rute terstruktur yang disebut Siklus 7-Langkah: (1) Identifikasi Kelangkaan, (2) Picu Inisiatif, (3) Kejadian Kerja Kolektif, (4) Baca Status Ekonomi, (5) Evaluasi Hasil, (6) Adaptasi Teknik, (8) Selesai sebagai Pelajaran Berharga (Lesson Learned).\nTeknologi CORE Engine (Mesin Penggerak Energon): Tenaga untuk menggerakkan Agen PUDAL disediakan oleh CORE Engine. Dalam konteks ini, CORE Engine adalah Sistem Koperasi Swadaya. Ia bertindak sebagai transducer fundamental melalui siklus (Input, Encode, Decode, Output) untuk mengubah tenaga fisik penduduk menjadi pendapatan ekonomi yang berputar kembali ke komunitas.\nFundamental Riset PSKVE (Bahan Bakar): “Bahan bakar” mesin ini berasal dari riset mendalam mengenai potensi ekonomi lokal. Riset inilah yang merumuskan prinsip konversi Human Energon menjadi Value Energon, memastikan bahwa setiap keringat yang dikeluarkan masyarakat diubah menjadi kemajuan ekonomi yang terukur.\n\n\n\n9.1.3 Panduan Praktis untuk Masyarakat\n\n9.1.3.1 Panduan untuk Komunitas (Public-Friendly) Aturan 30-30-30 Kedaulatan Lokal\n\n30 Menit Identifikasi: Mencari potensi desa/lingkungan setiap pagi.\n30 Menit Kolaborasi: Diskusi antarwarga tentang solusi masalah harian.\n30 Menit Evaluasi: Mencatat apa yang berhasil dan apa yang gagal hari ini.\n\n\n\n9.1.3.2 Panduan untuk Pendamping Lapangan (Guru Ekonomi Sosial)\n\nApa potensi yang belum disadari warga hari ini?\nDi bagian mana proses produksi mereka terhambat?\nDukungan kecil (non-uang) apa yang bisa saya beri besok?\n\n\n\n\n9.1.4 Akurasi & Kredibilitas\nPengetahuan Poverty-as-a-Systemic-Gap ini konsisten dengan laporan World Bank Global Poverty 2024 dan tujuan SDG 1 PBB. Inovasi ini tidak berhenti di wacana bantuan, tetapi berdampak pada perubahan pola pikir: masyarakat memahami bahwa mereka bukan “beban”, melainkan “penggerak” sistem ekonomi yang hidup.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>UAS-4 My Knowledge</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#tinjauan-umum",
+    "href": "My_Professional_Reviews/index.html#tinjauan-umum",
+    "title": "10  UAS-5 My Professional Reviews",
+    "section": "",
+    "text": "UAS-1 (My Concepts) memuat konsep “Mesin Sirkulasi Kemandirian” untuk menanggulangi lingkaran setan kemiskinan ekstrem.\nUAS-2 (My Opinions) merumuskan pergeseran paradigma dari bantuan konsumtif menuju ko-kreasi nilai yang memuliakan martabat.\nUAS-3 (My Innovations) menjelaskan inovasi RESONANSI-8M sebagai arsitektur “Teater Kemandirian”.\nUAS-4 (My Knowledge) menganalisis kemiskinan sebagai Systemic Gap dan memberikan panduan praktis 30-30-30 untuk masyarakat.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#tinjauan-spesifik-skor-1-5",
+    "href": "My_Professional_Reviews/index.html#tinjauan-spesifik-skor-1-5",
+    "title": "10  UAS-5 My Professional Reviews",
+    "section": "",
+    "text": "10.1.1 UAS-1 (My Concepts)\n\nSkor per Kategori:\n\nKejelasan: 5/5\nLogika: 5/5\nValiditas: 5/5\nKegunaan: 5/5\n\nAlasan: Konsep “Mesin Sirkulasi Kemandirian” sangat kuat karena berhasil menerjemahkan masalah sosial yang kompleks ke dalam arsitektur sistem (TISE) yang logis dan solutif bagi kemiskinan ekstrem.\n\n\n\n10.1.2 UAS-2 (My Opinions)\n\nSkor per Kategori:\n\nMenarik (Compelling): 5/5\nInformatif: 5/5\nPersuasif: 5/5\nMenggugah (Engaging): 5/5\n\nAlasan: Opini ini sangat persuasif dalam mengubah cara pandang dari “penerima bantuan” menjadi “protagonis-penulis” yang memiliki agensi penuh atas masa depannya melalui ko-kreasi nilai.\n\n\n\n10.1.3 UAS-3 (My Innovations)\n\nSkor per Kategori:\n\nNilai Guna (Value Creation): 5/5\nKebaruan: 5/5\nDesain & Kelayakan: 5/5\nDampak terhadap KIPP: 5/5\n\nAlasan: Inovasi RESONANSI-8M memberikan desain operasional yang sangat lengkap, mulai dari pemetaan potensi (Stasion A) hingga mekanisme CORE Engine yang aplikatif di lapangan.\n\n\n\n10.1.4 UAS-4 (My Knowledge)\n\nSkor per Kategori:\n\nKurasi Pengetahuan: 5/5\nKeterjelasan Penyajian Publik: 5/5\nAkurasi & Sumber: 5/5\nDaya Guna bagi Publik: 5/5\n\nAlasan: Pengetahuan tentang Poverty-as-a-Systemic-Gap disajikan dengan akurat. Panduan praktis 30-30-30 memberikan nilai guna nyata bagi masyarakat untuk memulai kedaulatan ekonomi.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#rekap-skor-akhir",
+    "href": "My_Professional_Reviews/index.html#rekap-skor-akhir",
+    "title": "10  UAS-5 My Professional Reviews",
+    "section": "10.3 Rekap Skor Akhir",
+    "text": "10.3 Rekap Skor Akhir\n\nUAS-1: 20/20 (100%)\nUAS-2: 20/20 (100%)\nUAS-3: 20/20 (100%)\nUAS-4: 20/20 (100%)\n\nRekap Skor Peer Assessment: UAS-5 Skor Peer",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
+    ]
+  },
+  {
+    "objectID": "My_Professional_Reviews/index.html#rekap-skor-ringkas",
+    "href": "My_Professional_Reviews/index.html#rekap-skor-ringkas",
+    "title": "10  UAS-5 My Professional Reviews",
+    "section": "10.2 Rekap Skor Ringkas",
+    "text": "10.2 Rekap Skor Ringkas\n\n\n\nModul\nSkor Akhir\nPersentase\n\n\n\n\nUAS-1: My Concepts\n20/20\n100%\n\n\nUAS-2: My Opinions\n20/20\n100%\n\n\nUAS-3: My Innovations\n20/20\n100%\n\n\nUAS-4: My Knowledge\n20/20\n100%\n\n\n\nHasil Penilaian Peer Assessment: UAS-5 Skor Peer",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>UAS-5 My Professional Reviews</span>"
     ]
   }
 ]

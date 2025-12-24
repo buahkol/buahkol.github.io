@@ -1,2 +1,58 @@
 ## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+Berikut adalah *self-assessment* yang dilakukan dengan bantuan Gemini AI untuk mengevaluasi seluruh tugas UAS-1 hingga UAS-4 berdasarkan rubrik penilaian spesifik per kategori.
+
+**Identifikasi**
+* **Nama dan NIM Penulis**: Illona Nasywa Hannum - 18224081
+* **Penilai**: Self-assessment (via Gemini AI)
+* **Catatan Cakupan**: Portofolio lengkap mencakup konsep rekayasa sistem, opini transformasi ekonomi, inovasi operasional, dan kurasi pengetahuan publik.
+
+**Rekap skor siap diunduh:** [Download CSV Ringkasan](self-assessment.csv)
+
+---
+
+## Tinjauan Spesifik + Skor (1-5)
+
+### UAS-1 (My Concepts)
+* **Skor per Kategori**: 
+    * Kejelasan: 5/5
+    * Logika: 5/5
+    * Validitas: 5/5
+    * Kegunaan: 5/5
+* **Alasan**: Konsep "Mesin Sirkulasi Kemandirian" sangat kuat karena berhasil menerjemahkan masalah sosial yang kompleks ke dalam arsitektur sistem (TISE) yang logis dan solutif bagi kemiskinan ekstrem.
+
+### UAS-2 (My Opinions)
+* **Skor per Kategori**:
+    * Menarik (Compelling): 5/5
+    * Informatif: 5/5
+    * Persuasif: 5/5
+    * Menggugah (Engaging): 5/5
+* **Alasan**: Opini ini sangat persuasif dalam mengubah cara pandang dari "penerima bantuan" menjadi "protagonis-penulis" yang memiliki agensi penuh atas masa depannya melalui ko-kreasi nilai.
+
+### UAS-3 (My Innovations)
+* **Skor per Kategori**:
+    * Nilai Guna (Value Creation): 5/5
+    * Kebaruan: 5/5
+    * Desain & Kelayakan: 5/5
+    * Dampak terhadap KIPP: 5/5
+* **Alasan**: Inovasi RESONANSI-8M memberikan desain operasional yang sangat lengkap, mulai dari pemetaan potensi (Stasion A) hingga mekanisme CORE Engine yang aplikatif di lapangan.
+
+### UAS-4 (My Knowledge)
+* **Skor per Kategori**:
+    * Kurasi Pengetahuan: 5/5
+    * Keterjelasan Penyajian Publik: 5/5
+    * Akurasi & Sumber: 5/5
+    * Daya Guna bagi Publik: 5/5
+* **Alasan**: Pengetahuan tentang *Poverty-as-a-Systemic-Gap* disajikan dengan akurat. Panduan praktis 30-30-30 memberikan nilai guna nyata bagi masyarakat untuk memulai kedaulatan ekonomi.
+
+---
+
+## Rekap Skor Ringkas
+
+| Modul | Skor Akhir | Persentase |
+| :--- | :--- | :--- |
+| **UAS-1: My Concepts** | 20/20 | 100% |
+| **UAS-2: My Opinions** | 20/20 | 100% |
+| **UAS-3: My Innovations** | 20/20 | 100% |
+| **UAS-4: My Knowledge** | 20/20 | 100% |
+
+**Hasil Penilaian Peer Assessment**: [UAS-5 Skor Peer](https://1drv.ms/x/c/d8d649c3438d959d/IQD1AbW0BxYoRbrEvHI016z3AeJ84P-n5m5TyKXn86KGtKQ?e=f1PfqP)
